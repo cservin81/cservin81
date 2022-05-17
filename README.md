@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cservin81
-- 👀 I’m interested in Cibersecurity
+- 👀 I’m interested in Cibersecurity, DevOps, DevSecOps, Security
 - 🌱 I’m currently learning Cloud Security & DevSecOp
 - 💞️ I’m looking to collaborate on cibersecurity projects
 - 📫 How to reach me by my mail
